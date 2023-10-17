@@ -91,6 +91,8 @@ footer {
       flex-direction: column;}
   .conteiner>h1 {
         font-size: 2em;}
+        .nav-conteiner>nav>ul>li>a {
+                    font: 500 1rem Raleway, sans-serif;}}
   
   
   
@@ -102,5 +104,7 @@ footer {
     
     .conteiner>h1 {
       font-size: 1em;}
+      .nav-conteiner>nav>ul>li>a {
+        font: 300 0.7rem Raleway, sans-serif;}}
 
 
