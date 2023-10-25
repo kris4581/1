@@ -179,6 +179,9 @@
   .front .img15 {
     background-image: url(https://loev.gomel-region.by/uploads/images/Voenno-patrioticheskij-Loev1-1.jpg);
   }
+  .front .img16{
+    background-image: url(https://izvezda.by/images/storage/simplecatalog/002614_631693.jpg);
+  }
   @media (max-width: 900px) {
     .nav-conteiner{
         flex-direction: column;
