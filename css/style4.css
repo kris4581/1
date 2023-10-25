@@ -50,11 +50,12 @@ h1 {
 footer {
   display: flex;
   justify-content: center;
-  padding: 5px;
+  padding: 10px;
   background-color: #3e4982;
   color: #fff;
   font-size: 1em;
   font-style: italic;
+  margin: 30px;
 }
 
 
