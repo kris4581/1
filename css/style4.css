@@ -10,7 +10,7 @@ body{
     align-items: center;
     text-align: right;
     color: rgba(255, 255, 255, 0.918);
-    background-color: #3e4982;
+    background-color: #4ca669;
     
     
 }
@@ -51,7 +51,7 @@ footer {
   display: flex;
   justify-content: center;
   padding: 10px;
-  background-color: #3e4982;
+  background-color: #4ca669;
   color: #fff;
   font-size: 1em;
   font-style: italic;

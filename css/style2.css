@@ -8,7 +8,7 @@
     align-items: center;
     text-align: right;
     color: rgba(255, 255, 255, 0.918);
-    background-color: #3e4982;
+    background-color: #4ca669;
     
     
 }
@@ -31,8 +31,8 @@ h1 {
 .conteiner-main {
   display: grid;
 
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(7,350px);
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(5,250px);
 }
 .card {
   margin: 1.5em;
@@ -62,7 +62,7 @@ footer {
   display: flex;
   justify-content: center;
   padding: 5px;
-  background-color: #3e4982;
+  background-color: #4ca669;
   color: #fff;
   font-size: 1em;
   font-style: italic;
@@ -74,8 +74,8 @@ footer {
         flex-direction: column;
     }
     .conteiner-main {
-      grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(11,350px);
+      grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(7,250px);
 
     }
     .conteiner>h1 {
@@ -87,8 +87,8 @@ footer {
           flex-direction: column;
       }
       .conteiner-main {
-        grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: repeat(21,400px);
+        grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(11,250px);
       }
       .card {
         margin-inline-start: 0;
