@@ -2,6 +2,7 @@
     margin: 0;
 }
 
+
 body{
   font-family: 'Open Sans', Arial, sans-serif;
 }
@@ -30,7 +31,9 @@ h1 {
     
 
 /*картінка*/
+
 .blur-image {
+  
     display: block;
     margin-left: auto;
     margin-right: auto;

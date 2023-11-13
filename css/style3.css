@@ -24,6 +24,10 @@ h1 {
 /*логотип*/
 .logo {
     max-width: 100px;
+   
+       
+ 
+  
 }
 
 
@@ -50,5 +54,7 @@ h1 {
     color: #fff;
     font-size: 1em;
   font-style: italic;
+  flex-direction: row;
+  
   }
   

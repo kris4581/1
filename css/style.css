@@ -4,14 +4,17 @@
 body{
   font-family: 'Open Sans', Arial, sans-serif;
 }
+
+
 .conteiner {
     display:flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     text-align: right;
-    color: rgba(255, 255, 255, 0.918);
-    background-color: #4ca669;
+    color: #FFFFFF;
+    background-color: #3e4982;
+    position: sticky;
     
     
 }
@@ -40,10 +43,8 @@ h1 {
     margin: 15px;
     font-style: italic;
 
+    
   }
-  
-  
-
   /*логотип*/
 .logo {
     max-width: 100px;
@@ -80,8 +81,8 @@ footer {
   display: flex;
   justify-content: center;
   padding: 5px;
-  background-color: #4ca669;
-  color: #fff;
+  background-color: #3e4982;
+  color: #FFFFFF;
   font-size: 1em;
   font-style: italic;
 }

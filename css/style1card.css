@@ -14,6 +14,7 @@
   font-size: 16px;
   background: #fff;
   border-radius: 5px;
+  
 }
 
 .snip1578 *,
@@ -23,6 +24,7 @@
   box-sizing: border-box;
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
+  
 }
 
 .snip1578 img {
@@ -42,7 +44,8 @@
   left: 0;
   bottom: 0;
   padding: 15px;
-  background-color: #3b6449;
+  background-color: #575c74;
+
 }
 
 .snip1578 h3 {
@@ -81,6 +84,7 @@
 body {
   background-color: white;
   text-align: center;
+
   
 }
 

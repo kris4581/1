@@ -51,7 +51,7 @@
   .conteiner-main {
     display: grid;
       grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(5,600px);
+    grid-template-rows: repeat(7,600px);
   }
   
   .cardContainer {
@@ -167,7 +167,7 @@
     background-image: url(https://savehistory.by/upload/iblock/4eb/noh4zlkxu65qumzpt0o1e0bncf7qy7mv.jpg);
   }
   .front .img12 {
-    background-image: url(https://planetabelarus.by/upload/iblock/46f/46f4a9b12827b4614b61f5c620f5765f.jpg);
+    background-image: url(https://static.strada.by/2016/10/02/20160924-IMG_0893.jpg);
   }
   .front .img13 {
     background-image: url(https://static.strada.by/2022/06/15/151304.jpg);
@@ -181,6 +181,30 @@
   }
   .front .img16{
     background-image: url(https://izvezda.by/images/storage/simplecatalog/002614_631693.jpg);
+
+  }
+  .front .img19{
+    background-image: url(https://photos.wikimapia.org/p/00/04/75/69/51_big.jpg);
+  }
+  .front .img17{
+    background-image: url(https://savehistory.by/upload/iblock/230/s3mt23ocnqu0soywi0grrg6bok2p1spb.jpg);
+  }
+  .front .img18{
+    background-image: url(https://monument.goub.by/wp-content/gallery/kolokol/колокол_5.jpg);
+  }
+  .front .img20{
+    background-image: url(https://static.strada.by/2020/03/28/946521925.jpg);
+
+  }
+  .front .img21{
+    background-image: url(https://static.strada.by/2017/07/04/20160924-IMG_0870.jpg);
+    
+  }
+  .front .img22{
+    background-image: url(https://ctv.by/sites/default/files/field2/77-ya_godovshchina_osvobozhdeniya_uznikov_ozarichskih_lagerey_smerti_19_03_2021_1.jpg);
+    
+  });
+    
   }
   @media (max-width: 900px) {
     .nav-conteiner{
@@ -188,7 +212,7 @@
     }
     .conteiner-main {
       grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(8,600px);
+  grid-template-rows: repeat(10,600px);
 
     }
     .conteiner>h1 {
@@ -201,7 +225,7 @@
       }
       .conteiner-main {
         grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: repeat(15,600px);
+    grid-template-rows: repeat(18,600px);
       }
       .card {
         margin-inline-start: 0;
@@ -209,3 +233,4 @@
       .conteiner>h1 {
         font-size: 1em;}
       }
+      /*https://static.strada.by/2020/03/28/946521925.jpg
