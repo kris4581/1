@@ -187,7 +187,7 @@
     background-image: url(https://photos.wikimapia.org/p/00/04/75/69/51_big.jpg);
   }
   .front .img17{
-    background-image: url(https://savehistory.by/upload/iblock/230/s3mt23ocnqu0soywi0grrg6bok2p1spb.jpg);
+    background-image: url(https://sammler.ru/uploads/post-24-1324575041.jpg);
   }
   .front .img18{
     background-image: url(https://monument.goub.by/wp-content/gallery/kolokol/колокол_5.jpg);
@@ -197,22 +197,22 @@
 
   }
   .front .img21{
-    background-image: url(https://static.strada.by/2017/07/04/20160924-IMG_0870.jpg);
+    background-image: url(https://www.sb.by/upload/medialibrary/2fd/2fd5235b9b48f9c606ce272e666bf379.jpg);
     
   }
   .front .img22{
-    background-image: url(https://ctv.by/sites/default/files/field2/77-ya_godovshchina_osvobozhdeniya_uznikov_ozarichskih_lagerey_smerti_19_03_2021_1.jpg);
+    background-image: url(https://sun9-44.userapi.com/impg/afFLgg3HAK3oadDjHtknQKS29nsbxlvuaGDm7g/dB0DYspcuUA.jpg?size=1330x887&quality=95&sign=0ccd31ec1b9007367ed002206c8ad5b6&c_uniq_tag=xmH36ms7Fg1YViTRTz-Ex-Z-5nTTNMO5W17tXyNhc6I&type=album);
     
   });
     
   }
-  @media (max-width: 900px) {
+  @media (max-width: 800px) {
     .nav-conteiner{
         flex-direction: column;
     }
     .conteiner-main {
       grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(10,600px);
+  grid-template-rows: repeat(11,600px);
 
     }
     .conteiner>h1 {
@@ -225,7 +225,7 @@
       }
       .conteiner-main {
         grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: repeat(18,600px);
+    grid-template-rows: repeat(21,600px);
       }
       .card {
         margin-inline-start: 0;
